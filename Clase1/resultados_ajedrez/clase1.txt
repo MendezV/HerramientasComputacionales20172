@@ -1,0 +1,53 @@
+
+Introducción
+	Motivación: aplicaciones, ubiquidad (Astro, Geo, HighEn, CondMat), competencia.
+			en general: analisis de datos, calculos, comunicación de resultados.
+Temas:
+	Ir con el programa
+	https://github.com/ComputoCienciasUniandes/HerramientasComputacionales/blob/master/Syllabus/Syllabus.pdf (explicar sitio del Curso)
+	Linux: terminal, uso en general
+	Latex: Comunicación, ejemplo: https://arxiv.org/pdf/hep-th/9711200.pdf
+	Python: Cosas básicas, loops, arreglos y listas
+		visualizacion
+		métodos numéricos: Integración, resolver ecuaciones, estadística, interpolación
+	
+Dinámica:
+	Videos: https://github.com/ComputoCienciasUniandes/HerramientasComputacionales
+	Talleres en Clase, entrega por sicua
+	Evaluación
+		20 diag
+		20*3 talleres
+		20 final
+Examen Diagnostico
+
+Filosofía general
+	arbol, ramas, los comandos se ejecutan en el sitio donde estoy parado y me muevo desde la terminal
+	-whoami
+	-pwd
+	-cd 
+	-tab
+	-cd ..
+	-ls
+	-ls -t
+	-touch
+	-man
+	-wc
+	-wc -c
+	-less
+	-head
+	-tail
+	-mkdir
+	-rm
+	-rm -f
+	-mv as rename
+	-mv *.py dirname
+	-history
+	-redirección >
+	-tar -cvf , -xvf
+
+	
+
+https://xkcd.com/1168/
+
+
+
