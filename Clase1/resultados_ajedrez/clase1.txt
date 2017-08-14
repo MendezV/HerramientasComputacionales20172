@@ -25,6 +25,7 @@ Filosofía general
 	-whoami
 	-pwd
 	-cd 
+	-echo
 	-tab
 	-cd ..
 	-ls
@@ -44,6 +45,7 @@ Filosofía general
 	-history
 	-redirección >
 	-tar -cvf , -xvf
+
 
 	
 
